@@ -8,10 +8,6 @@ Singleton is a creational design pattern that lets you ensure that a class has o
 - Provide a global access point to that instance.
     - The pattern lets you access some object from anywhere in the program. Additionally, it also protects that instance from being overwritten by other code.
 
-### CONS:
-- A class created using the singleton pattern violates the Single Responsibility Principle since the class may have to handle more than one responsibility at a given time.
-- Life cycle management can pose problems in other areas such as testing since the singleton class is kept alive during the lifespan of the application and different test cases might require new versions of the class.
-
 ### Use Case:
 
 - logging
