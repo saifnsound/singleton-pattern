@@ -2,7 +2,6 @@
 
 Singleton is a creational design pattern that lets you ensure that a class has only one instance, while providing a global access point to this instance.
 
-### PROS:
 - Ensures that a class has just a single instance.
     - Imagine that you created an object, but after a while decided to create a new one. Instead of receiving a fresh object, you’ll get the one you already created.
 - Provide a global access point to that instance.
