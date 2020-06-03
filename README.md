@@ -10,8 +10,7 @@ Singleton is a creational design pattern that lets you ensure that a class has o
 ### Use Case:
 
 - logging
-- driver objects
-- caching and thread pool
+- caching
 - database connections
 
 ### Solution
